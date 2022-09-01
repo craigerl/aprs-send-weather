@@ -16,7 +16,7 @@
 
 # User serviceable parts:
 USER="KM6XXX-3"
-PASS="11111"
+PASS="11111"                        # https://apps.magicbug.co.uk/passcode/
 DIREWOLFHOSTNAME=direwolf.hostname
 
 
