@@ -43,7 +43,6 @@ fi
 
 
 # Now send the packet to a KISS TNC to transmit over RF
-# edit "digipi4" below to your direwolf hostname
 
 echo "Sending packet to Radio TNC."
 PACKET="$USER>APRS,WIDE1-1:$STRING"
